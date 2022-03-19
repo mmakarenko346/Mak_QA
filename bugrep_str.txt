@@ -1,0 +1,18 @@
+Summery:
+
+Autor:
+
+Component:
+
+Severity:
+
+Priority:
+
+Status:
+
+Steps:
+
+	Result:
+	Expected Result:
+
+Attachments:
